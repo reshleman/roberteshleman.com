@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/reshleman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://roberteshleman.com
+  * I am reshleman (https://keybase.io/reshleman) on keybase.
+  * I have a public key with fingerprint 87F7 3963 1E9E 3227 B91B  04EB 39A0
+    B973 C405 1280
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid":
+"0101ec16290a48009750e3dce7451794403fa792a73ff478dc403f9031f92f2d8be70a",
+            "fingerprint": "87f739631e9e3227b91b04eb39a0b973c4051280",
+            "host": "keybase.io",
+            "key_id": "39a0b973c4051280",
+            "kid":
+"0101ec16290a48009750e3dce7451794403fa792a73ff478dc403f9031f92f2d8be70a",
+            "uid": "545a2c4944fc51fb088f944dba2acf19",
+            "username": "reshleman"
+        },
+        "service": {
+            "hostname": "roberteshleman.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1499823977,
+    "expire_in": 157680000,
+    "prev": "c1687dde9b50f21154f710c7ce94eb3f30e75eddd4bd095e0c6c7ee5dcae64f6",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUY3t1ACHViBImiRG7KZm1wP/feQ1iGk4kGBEgKFHg/zoU7LHvXu8v6
+AQgURR9izhgKCBsYzWCEjnw0wCRTCsogBKYIpaANxbia8WGBI9l0LxP/+tmvM+9z
+nuc5z/ue99DyR3TeelDTbu/yXFGov+jmdMmwwJKLcLKwF4nIRbLgwgEtArQ70rMk
+AYlAUAzFII+ZcYCyJIOigKZQSAg8pEkKowFJooTI0gBnaUIUSZoReA0BKIGJABdx
+geEgjbKICRElawZUbIpkdai2DC3SBDATGASQwHGaAxiHkpAjAItygCZUFwrDGVQV
+Zsp2TaGG41g7DJNkFVOL9IV4/8H/n3PnLNhRJMXiPKnqRJ7CRA5lGFEtBI7FWV7E
+gEa0Q8XKZkOVrUB7pgVms1Yk34SosFPioTZZrZVFisxBxbHIC+PlbNXCpsgOmZct
+6n2mw2GL0OSOvTaNvxty6f86pXOSVVCnqQqcULFLshWJwFQm75A0a4wEgMEJQNMm
+BO6xSQpMlzQGRZvVOaCo9gx0qpZ8GmZmaEGAgKNQEccwihRpDOVpHgLtK0QChTQF
+BUEgOQEFFER5M09DSAk8C82kaEa05nZZZSSCUXOyGaqnXcqwso4cBSL5Ph8aCA+d
+3lv3dECIR8kc4Fe5cGN7kMedxQ30NGjrp/N51HcRMUz76upab44Xcmf6133sZZty
+Vo90dAam/pxr6O+7etL/yfkk17vW+o3eWXkJccUHyoe/6Zv0+auzPHO85b2OzaO1
+R7dNlAj2e7dPneR9DH5VU03ZA5eQ5tDs1UdfCZXzU9d0px3Re2w17T+M6c4lXoic
+qI53xcTEMM667z+59vD2kuXNpmC/bRXjg1frTj/e+/Yzymxp9LFdbveWpGV+u7up
+YP+nBpI3xB9Jm0z8I2VNqXLr29qEpNbJoobP1xY2Xqoqmnl/Z7GwI7i0prunp/Yc
+3tmOzZXvaDntHT1uaozbcNk/JHr0FhmeFdj5xCzYN2cIOFa/toauX981tr3ll6jc
+3/KGyKUbmwYVXfmVyqVd7jJ70NjQl8aX/va8FrWnKDG57GyOpWU4x/VTpZfx+lkx
+4LHp2Co56p7lxu9TVz6KHfl6e9Bl00Ovz17P623MRY73nCBzJsviVwX12wKWnRkV
+gn7MDKso/LT2wsr90Za2Ew1fzcivUl+81Tof2Ua9gwxCV/EbgzMp5rvG1fuixtyx
++lOp4d9t2Tl2Z93mFxKdB32GqOtLDvYdYAaj2gbmVj43XrLpV/2zPWEdyZ2z/pvu
+B97902Uqe/7i+psflL74svHwm7PnPUcqQ5Q5Z8WDlLHQhgLWsaL3B/eNWdcDr9CJ
+8OnS14wJxzsOxTVXD+ef94zcOmMdzvK93yTPF/SCyX8A
+=JfN3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reshleman
+
+==================================================================
