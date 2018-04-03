@@ -3,7 +3,6 @@ layout: post
 title: "Learning a Team-Based Git Workflow"
 date: 2014-08-08 14:37:09 -0400
 comments: true
-redirect_from: /blog/2014/08/08/learning-a-team-based-git-workflow/
 categories: ["Metis", "Git", "tech", "GitHub", "agile", "workflow"]
 ---
 

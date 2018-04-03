@@ -29,6 +29,8 @@ markdown: kramdown
 theme: jekyll-theme-type
 plugins:
   - jekyll-feed
+permalink: /blog/:year/:month/:day/:title/
+excerpt_separator: "<!-- More -->"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -45,9 +47,6 @@ plugins:
 # Pagination
 paginate: 5
 paginate_path: "blog/page:num"
-
-# Post settings
-excerpt_separator: "<!-- More -->"
 
 # Theme-specific Configuration
 theme_settings:

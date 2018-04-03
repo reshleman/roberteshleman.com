@@ -3,7 +3,6 @@ layout: post
 title: "Creating a Basic Web App with Ruby and Sinatra"
 date: 2014-06-26 12:45:25 -0400
 comments: true
-redirect_from: /blog/2014/06/26/creating-a-basic-web-app-with-ruby-and-sinatra/
 categories: ["Metis", "Tech", "Ruby", "Sinatra", "How-to"]
 ---
 

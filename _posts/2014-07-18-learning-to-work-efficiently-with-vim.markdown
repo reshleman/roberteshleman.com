@@ -3,7 +3,6 @@ layout: post
 title: "Learning to Work Efficiently with Vim"
 date: 2014-07-18 14:31:09 -0400
 comments: true
-redirect_from: /blog/2014/07/18/learning-to-work-efficiently-with-vim/
 categories: ["tech", "vim", "rails", "ruby", "metis"]
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: "Models, Views, and Controllers, Oh My!: Anatomy of a Rails App"
 date: 2014-07-07 14:14:17 -0400
 comments: true
-redirect_from: /blog/2014/07/07/models-views-and-controllers-oh-my-anatomy-of-a-rails-app/
 categories: ["Rails", "Tech", "MVC", "Metis", "Ruby"]
 ---
 

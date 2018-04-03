@@ -3,7 +3,6 @@ layout: post
 title: "Learning Rails via Error-Driven Development"
 date: 2014-07-09 13:10:52 -0400
 comments: true
-redirect_from: /blog/2014/07/09/learning-rails-via-error-driven-development/
 categories: ["Rails", "Ruby", "Tech", "Metis", "TDD", "EDD"]
 ---
 

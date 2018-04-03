@@ -3,7 +3,6 @@ layout: post
 title: "The Value of Learning Object-Oriented Design in Ruby... Starting from Day 1"
 date: 2014-06-23 12:56:03 -0400
 comments: true
-redirect_from: /blog/2014/06/23/the-value-of-learning-object-oriented-design-in-ruby-dot-dot-dot-starting-from-day-1/
 categories: ['Ruby', 'Tech', 'Metis']
 ---
 
