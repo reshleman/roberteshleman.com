@@ -11,7 +11,7 @@ categories: ['Ruby', 'Tech', 'Metis']
 
 Using object-oriented design in programming is analogous to building scaffolding around a building. Once we have a basic class definition that models a real-world object, adding additional layers of abstraction on top becomes much simpler. This allows us to easily build on more complexity — or levels on the scaffold — without sacrificing readability. A procedural approach is like using a steep rickety ladder to scale the same tall building: you may make it to the top, but it's a much more difficult climb and the ladder is liable to collapse, dropping you right back to the ground to start over.
 
-<!-- more -->
+<!-- More -->
 
 ## The Problem
 

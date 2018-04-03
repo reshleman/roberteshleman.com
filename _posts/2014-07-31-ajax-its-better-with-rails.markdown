@@ -13,7 +13,7 @@ Most people love the responsive experience of using [AJAX](http://en.wikipedia.o
 
 It may not be a surprise that Rails helps us abstract some of the more challenging AJAX code. In this post, we'll take a look at a basic AJAX request constructed with vanilla jQuery; then, we'll check out the tools Rails gives us to create and respond to asynchronous requests.
 
-<!--More-->
+<!-- More -->
 
 ## The Hard Way
 

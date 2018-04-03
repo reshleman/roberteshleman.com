@@ -13,7 +13,7 @@ This week at Metis, we’re using Ruby and [Sinatra](http://www.sinatrarb.com) t
 
 In this post, we’ll walk through creating a basic "hello world"-style app that offers a greeting to the user, customized based on the url.
 
-<!-- MORE -->
+<!-- More -->
 
 ## Setting up Sinatra
 

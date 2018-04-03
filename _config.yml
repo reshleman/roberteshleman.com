@@ -41,3 +41,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Post settings
+excerpt_separator: "<!-- More -->"

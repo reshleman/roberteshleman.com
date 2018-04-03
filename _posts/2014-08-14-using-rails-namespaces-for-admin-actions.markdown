@@ -19,7 +19,7 @@ In addition, Rails permits the use of [namespaces] to organize our resources and
 [namespaces]: http://en.wikipedia.org/wiki/Namespace
 [Craigslist]: http://craigslist.org
 
-<!--More-->
+<!-- More -->
 
 ## Routing
 

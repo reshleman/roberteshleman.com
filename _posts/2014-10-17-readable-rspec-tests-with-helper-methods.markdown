@@ -12,7 +12,7 @@ I've been spending a lot of time recently becoming familiar with [Rspec], [Capyb
 
 One particularly effective technique I've been using often in my tests is extracting helper methods with descriptive names to make my code easier to read.
 
-<!--More-->
+<!-- More -->
 
 ## Setup and Exercise
 
