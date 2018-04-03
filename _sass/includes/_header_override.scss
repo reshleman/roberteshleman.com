@@ -1,0 +1,12 @@
+.site-header {
+  .site-nav {
+    li {
+      .page-link {
+        &:after {
+          content: "•";
+          padding-left: 0.2em;
+        }
+      }
+    }
+  }
+}
