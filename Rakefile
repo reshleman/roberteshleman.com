@@ -15,7 +15,11 @@ end
 
 task :deploy do
   sh "aws s3 sync _site/ s3://roberteshleman.com/ --delete"
-  # TODO: Invalidate Cloudfront cache
+  sh <<~EOF
+    aws cloudfront create-invalidation \
+      --distribution-id #{ENV['CLOUDFRONT_DISTRIBUTION_ID']} \
+      --paths "/*"
+  EOF
 end
 
 task :clean do
