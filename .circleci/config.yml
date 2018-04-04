@@ -46,6 +46,7 @@ jobs:
           at: .
       - run: sudo apt-get update && sudo apt-get install -y awscli
       - run: bundle install
+      - run: aws configure set preview.cloudfront true # We get an old version of awscli for some reason
       - run: bundle exec rake deploy
 
 workflows:
