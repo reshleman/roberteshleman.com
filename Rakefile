@@ -1,9 +1,5 @@
 require 'html-proofer'
 
-task :deps do
-  sh "bundle install"
-end
-
 task :build do
   sh "JEKYLL_ENV=production bundle exec jekyll build --verbose"
 end

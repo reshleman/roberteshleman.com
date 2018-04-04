@@ -1,0 +1,63 @@
+version: 2
+
+docker: &docker
+  docker:
+    - image: circleci/ruby:2.5.1
+      environment:
+        NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
+        BUNDLE_PATH: vendor/bundle
+
+jobs:
+  build:
+    <<: *docker
+    steps:
+      - checkout
+      - restore_cache: &cache_key
+          key: dependencies-{{ checksum "Gemfile.lock" }}-v1
+      - run: bundle install
+      - run: bundle exec rake build
+      - save_cache:
+          <<: *cache_key
+          paths:
+            - vendor/bundle
+      - persist_to_workspace:
+          root: .
+          paths:
+            - _site
+
+  test:
+    <<: *docker
+    steps:
+      - checkout
+      - restore_cache:
+          <<: *cache_key
+      - attach_workspace:
+          at: .
+      - run: bundle install
+      - run: bundle exec rake test
+
+  deploy:
+    <<: *docker
+    steps:
+      - checkout
+      - restore_cache:
+          <<: *cache_key
+      - attach_workspace:
+          at: .
+      - run: bundle install
+      - run: bundle exec rake deploy
+
+workflows:
+  version: 2
+  build_test_and_deploy:
+    jobs:
+      - build
+      - test:
+          requires:
+            - build
+      - deploy:
+          requires:
+            - test
+          filters:
+            branches:
+              only: master

@@ -31,3 +31,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # For validating generated HTML content
 gem "html-proofer"
+
+gem "rake"
