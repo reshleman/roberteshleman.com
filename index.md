@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me
-subtitle: 👋 Hello!
-permalink: /about/
+subtitle: 👋 Hi, I'm Robert
+hide: true
 ---
 
 I currently work as a **Software Engineer** at [Warby
