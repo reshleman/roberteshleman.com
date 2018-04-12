@@ -3,6 +3,7 @@ layout: page
 title: About Me
 subtitle: 👋 Hi, I'm Robert
 hide: true
+feature-bg: true
 ---
 
 I currently work as a **Software Engineer** at [Warby
