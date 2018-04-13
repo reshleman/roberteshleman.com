@@ -33,8 +33,13 @@ excerpt_separator: "<!-- More -->"
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
   - Rakefile
   - README.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Pagination
 paginate: 5
