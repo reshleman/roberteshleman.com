@@ -4,68 +4,49 @@ https://keybase.io/reshleman
 
 I hereby claim:
 
-  * I am an admin of http://roberteshleman.com
+  * I am an admin of https://roberteshleman.com
   * I am reshleman (https://keybase.io/reshleman) on keybase.
-  * I have a public key with fingerprint 87F7 3963 1E9E 3227 B91B  04EB 39A0
-    B973 C405 1280
+  * I have a public key ASB52WE9p7Tcv2U4NObpL3guB7oEM3bwkZUrP0ROZ4madAo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid":
-"0101ec16290a48009750e3dce7451794403fa792a73ff478dc403f9031f92f2d8be70a",
-            "fingerprint": "87f739631e9e3227b91b04eb39a0b973c4051280",
-            "host": "keybase.io",
-            "key_id": "39a0b973c4051280",
-            "kid":
-"0101ec16290a48009750e3dce7451794403fa792a73ff478dc403f9031f92f2d8be70a",
-            "uid": "545a2c4944fc51fb088f944dba2acf19",
-            "username": "reshleman"
-        },
-        "service": {
-            "hostname": "roberteshleman.com",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0101ec16290a48009750e3dce7451794403fa792a73ff478dc403f9031f92f2d8be70a",
+      "host": "keybase.io",
+      "kid": "012079d9613da7b4dcbf653834e6e92f782e07ba043376f091952b3f444e67899a740a",
+      "uid": "545a2c4944fc51fb088f944dba2acf19",
+      "username": "reshleman"
     },
-    "ctime": 1499823977,
-    "expire_in": 157680000,
-    "prev": "c1687dde9b50f21154f710c7ce94eb3f30e75eddd4bd095e0c6c7ee5dcae64f6",
-    "seqno": 8,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1524005330,
+      "hash": "5d1762ace97db6bf2b7ccddc5287a06534d876a5b05ddca4a5cf1b5fc819b7ce2580c3b0d9934a2e8eb5901722e971090643ba14b2bffe6afdc9a8f36afe8615",
+      "hash_meta": "211e1870140663495e9795a31c8eeb7e0de6ed5542400c2b7a8c8987e2ba1d29",
+      "seqno": 2404785
+    },
+    "service": {
+      "entropy": "tgLPmLF3W5yE+LIqJT4EY7Q9",
+      "hostname": "roberteshleman.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1524005376,
+  "expire_in": 504576000,
+  "prev": "4615bae840a2fad20075d2bcde2dfcf4f23547a2c2c9914e63fa8a9703727707",
+  "seqno": 19,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-
-owGtUm1QVFUY3t1ACHViBImiRG7KZm1wP/feQ1iGk4kGBEgKFHg/zoU7LHvXu8v6
-AQgURR9izhgKCBsYzWCEjnw0wCRTCsogBKYIpaANxbia8WGBI9l0LxP/+tmvM+9z
-nuc5z/ue99DyR3TeelDTbu/yXFGov+jmdMmwwJKLcLKwF4nIRbLgwgEtArQ70rMk
-AYlAUAzFII+ZcYCyJIOigKZQSAg8pEkKowFJooTI0gBnaUIUSZoReA0BKIGJABdx
-geEgjbKICRElawZUbIpkdai2DC3SBDATGASQwHGaAxiHkpAjAItygCZUFwrDGVQV
-Zsp2TaGG41g7DJNkFVOL9IV4/8H/n3PnLNhRJMXiPKnqRJ7CRA5lGFEtBI7FWV7E
-gEa0Q8XKZkOVrUB7pgVms1Yk34SosFPioTZZrZVFisxBxbHIC+PlbNXCpsgOmZct
-6n2mw2GL0OSOvTaNvxty6f86pXOSVVCnqQqcULFLshWJwFQm75A0a4wEgMEJQNMm
-BO6xSQpMlzQGRZvVOaCo9gx0qpZ8GmZmaEGAgKNQEccwihRpDOVpHgLtK0QChTQF
-BUEgOQEFFER5M09DSAk8C82kaEa05nZZZSSCUXOyGaqnXcqwso4cBSL5Ph8aCA+d
-3lv3dECIR8kc4Fe5cGN7kMedxQ30NGjrp/N51HcRMUz76upab44Xcmf6133sZZty
-Vo90dAam/pxr6O+7etL/yfkk17vW+o3eWXkJccUHyoe/6Zv0+auzPHO85b2OzaO1
-R7dNlAj2e7dPneR9DH5VU03ZA5eQ5tDs1UdfCZXzU9d0px3Re2w17T+M6c4lXoic
-qI53xcTEMM667z+59vD2kuXNpmC/bRXjg1frTj/e+/Yzymxp9LFdbveWpGV+u7up
-YP+nBpI3xB9Jm0z8I2VNqXLr29qEpNbJoobP1xY2Xqoqmnl/Z7GwI7i0prunp/Yc
-3tmOzZXvaDntHT1uaozbcNk/JHr0FhmeFdj5xCzYN2cIOFa/toauX981tr3ll6jc
-3/KGyKUbmwYVXfmVyqVd7jJ70NjQl8aX/va8FrWnKDG57GyOpWU4x/VTpZfx+lkx
-4LHp2Co56p7lxu9TVz6KHfl6e9Bl00Ovz17P623MRY73nCBzJsviVwX12wKWnRkV
-gn7MDKso/LT2wsr90Za2Ew1fzcivUl+81Tof2Ua9gwxCV/EbgzMp5rvG1fuixtyx
-+lOp4d9t2Tl2Z93mFxKdB32GqOtLDvYdYAaj2gbmVj43XrLpV/2zPWEdyZ2z/pvu
-B97902Uqe/7i+psflL74svHwm7PnPUcqQ5Q5Z8WDlLHQhgLWsaL3B/eNWdcDr9CJ
-8OnS14wJxzsOxTVXD+ef94zcOmMdzvK93yTPF/SCyX8A
-=JfN3
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgedlhPae03L9lODTm6S94Lge6BDN28JGVKz9ETmeJmnQKp3BheWxvYWTESpcCE8QgRhW66ECi+tIAddK83i389PI1R6LCyZFOY/qKlwNydwfEIL8MOuQzA/8JzEO8E5eZRi5JxgNeAjoJ/LC6/Aki9+RpAgHCo3NpZ8RA5nYLYy2NrgJww7Mx19TfvLXwRpVz6W6k/KDoN9f4yFPMaRUAsxf55tKAHv7Eh4LtkuGTXi4KrEWEbEYFl4P5DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE/hZyLnGf9xeMPHHrxJLHnBiyteaknhDRfxsnqhlxr1o3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
