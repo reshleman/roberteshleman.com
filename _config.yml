@@ -58,7 +58,7 @@ theme_settings:
   header_text:
   header_text_feature_image:
   footer_text: >
-   Copyright &copy; 2014-2018 Robert Eshleman.<br>
+   Copyright &copy; 2014-2019 Robert Eshleman.<br>
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>.
 
   # Icons
