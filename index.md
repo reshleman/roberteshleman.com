@@ -6,9 +6,16 @@ hide: true
 feature-bg: true
 ---
 
-I currently work as a **Software Engineer** at [Warby
-Parker](https://www.warbyparker.com), where my primary focus is building
-*accurate*, *scalable* systems for inventory and accounting.
+I currently work as a **Senior Software Engineer** at [Warby
+Parker](https://www.warbyparker.com), where my principal focus is building and
+maintaining business systems.
+
+My **areas of expertise** include the ERP systems that support back-office
+functions like *order management, payment processing, inventory management,
+manufacturing, and fulfillment*.
+
+I consider myself  primarily a **backend engineer**, and I'm proficient in
+**Python**, **PostgreSQL**, and other technologies.
 
 Previously, I was a **Web Developer** at [Character
 Lab](https://www.characterlab.org), an education non-profit that provides
@@ -25,4 +32,5 @@ the **subway**. Sometimes I even do these things simultaneously.
 
 I live in **New York City** with my husband, Logan McClellan.
 
+*[ERP]: Enterprise Resource Planning
 [Instagram]: https://www.instagram.com/{{site.theme_settings.instagram}}/
