@@ -1,4 +1,7 @@
-version: 2
+version: 2.1
+
+orbs:
+    aws-cli: circleci/aws-cli@3.1.3
 
 docker: &docker
   docker:
@@ -44,9 +47,7 @@ jobs:
           <<: *cache_key
       - attach_workspace:
           at: .
-      - run: sudo apt-get update && sudo apt-get install -y awscli
       - run: bundle install
-      - run: aws configure set preview.cloudfront true # We get an old version of awscli for some reason
       - run: bundle exec rake deploy
 
 workflows:
