@@ -2,7 +2,7 @@ version: 2
 
 docker: &docker
   docker:
-    - image: circleci/ruby:2.5.1
+    - image: ruby:2.7.6
       environment:
         NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
         BUNDLE_PATH: vendor/bundle

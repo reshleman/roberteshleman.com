@@ -6,31 +6,25 @@ hide: true
 feature-bg: true
 ---
 
-I currently work as a **Senior Software Engineer** at [Warby
-Parker](https://www.warbyparker.com), where my principal focus is building and
-maintaining business systems.
+I currently work as a **Software Engineer** at [Stripe](https://www.stripe.com).
+I'm part of the team building [Issuing](https://stripe.com/issuing), a product
+that allows businesses to create and manage physical and virtual cards.
 
-My **areas of expertise** include the ERP systems that support back-office
-functions like *order management, payment processing, inventory management,
-manufacturing, and fulfillment*.
-
-I consider myself  primarily a **backend engineer**, and I'm proficient in
+I am primarily a **backend engineer**, and I'm proficient in **Ruby**,
 **Python**, **PostgreSQL**, and other technologies.
 
-Previously, I was a **Web Developer** at [Character
-Lab](https://www.characterlab.org), an education non-profit that provides
-educators with resources to develop students' character strengths --- habits
-like grit, gratitude, and curiosity.
+Previously, I was a **Senior Software Engineer and Tech Lead** at
+[Transfix](https://transfix.io), where I built SaaS products, and a **Senior
+Software Engineer** at [Warby Parker](https://www.warbyparker.com), where my
+focus was on business systems.
 
 I earned my Bachelor's Degree in **Psychology** and **English** from the
-[University of Virginia](http://www.virginia.edu), where I also minored in
-**Computer Science**. I'm a graduate of the [Metis](https://www.thisismetis.com)
-**Ruby on Rails bootcamp**.
+[University of Virginia](http://www.virginia.edu). I also minored in **Computer
+Science**.
 
 In my free time, I love to **travel**, [take **photos**][Instagram], and ride
 the **subway**. Sometimes I even do these things simultaneously.
 
 I live in **New York City** with my husband, Logan McClellan.
 
-*[ERP]: Enterprise Resource Planning
 [Instagram]: https://www.instagram.com/{{site.theme_settings.instagram}}/
