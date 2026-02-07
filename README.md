@@ -1,7 +1,5 @@
 # [roberteshleman.com](https://roberteshleman.com)
 
-[![CircleCI](https://circleci.com/gh/reshleman/roberteshleman.com/tree/master.svg?style=svg&circle-token=d323a779454b1f1d7a9df5775995e4e131bc891f)](https://circleci.com/gh/reshleman/roberteshleman.com/tree/master)
-
 A simple React resume/CV site built with Vite.
 
 ## Dependencies
